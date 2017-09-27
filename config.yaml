@@ -1,0 +1,6 @@
+#If an item was published with the number specified here, then it will attempt to download the file.
+update_window: 5
+#The location of the json file where the list of podcast is contained.
+local_library: null
+#If specified the app will ignore the local library and fetch the remote one.
+remote_library: "https://gist.githubusercontent.com/orangemantis/802e8f4b4cfced0f34e8554c2ec9e4b9/raw/channellive.json"
